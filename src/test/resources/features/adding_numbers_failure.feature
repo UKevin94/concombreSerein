@@ -1,5 +1,6 @@
 Feature: Adding Numbers
 
+  @dead
   Scenario: Adding two numbers results in failure
     Given a is 4
     And b is 4

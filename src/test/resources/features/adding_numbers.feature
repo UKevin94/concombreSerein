@@ -1,5 +1,6 @@
 Feature: Adding Numbers
 
+  @alive
   Scenario: Adding two numbers
     Given a is 1
     And b is 2
