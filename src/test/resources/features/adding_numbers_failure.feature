@@ -1,4 +1,4 @@
-Feature: Adding Numbers
+Feature: Adding Numbers Failure
 
   @dead
   Scenario: Adding two numbers results in failure
